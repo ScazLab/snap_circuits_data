@@ -1,0 +1,84 @@
+{
+  "parts": [
+    {
+      "id": 0,
+      "label": "S2",
+      "location": [0, 0, "south"]
+    },
+    {
+      "id": 1,
+      "label": "S1",
+      "location": [0, 1, "south"]
+    },
+    {
+      "id": 2,
+      "label": "3",
+      "location": [0, 2, "south"]
+    },
+    {
+      "id": 3,
+      "label": "S1",
+      "location": [0, 5, "south"]
+    },
+    {
+      "id": 4,
+      "label": "C2",
+      "location": [1, 3, "south"]
+    },
+    {
+      "id": 5,
+      "label": "S2",
+      "location": [1, 4, "south"]
+    },
+    {
+      "id": 6,
+      "label": "RV",
+      "location": [1, 7, "west"]
+    },
+    {
+      "id": 7,
+      "label": "Q2",
+      "location": [1, 8, "north"]
+    },
+    {
+      "id": 8,
+      "label": "Q1",
+      "location": [2, 8, "east"]
+    },
+    {
+      "id": 9,
+      "label": "D1",
+      "location": [3, 0, "east"]
+    },
+    {
+      "id": 10,
+      "label": "2",
+      "location": [3, 5, "east"]
+    },
+    {
+      "id": 11,
+      "label": "U2",
+      "location": [4, 7, "east"]
+    },
+    {
+      "id": 12,
+      "label": "U23",
+      "location": [5, 3, "west"]
+    },
+    {
+      "id": 13,
+      "label": "D1",
+      "location": [6, 2, "west"]
+    },
+    {
+      "id": 14,
+      "label": "C4",
+      "location": [6, 4, "north"]
+    },
+    {
+      "id": 15,
+      "label": "U3",
+      "location": [6, 5, "north"]
+    }
+  ]
+}
